@@ -1,2 +1,2 @@
 # FlappyBird
-Basic mechanich of  "Flappy Birds" game
+Basic mechanic of  "Flappy Birds" game
