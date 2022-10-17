@@ -1,2 +1,2 @@
 # FlappyBird
-Project of classic "Flappy Birds" game
+Basic mechanic of  "Flappy Birds" game
